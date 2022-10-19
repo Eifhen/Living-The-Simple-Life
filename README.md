@@ -1,3 +1,4 @@
 ## Living A Simple Life
 
-Template responsive
+ -Template blog sobre minimalismo
+ -Template responsive
